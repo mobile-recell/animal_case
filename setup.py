@@ -1,5 +1,4 @@
 from distutils.core import setup
-
 setup(
     name = 'animal_case',
     version = '1.2.1',
@@ -7,7 +6,7 @@ setup(
     author_email = 'aciolyr@gmail.com',
     packages = ['animal_case'],
     description ='Convert from camel case to snake case and vice-versa',
-    keyworkds = ['snake case', 'camel case', 'converter'],
+    keyworkds = ['snake case', 'camel case', 'converter', 'pascal case'],
     url = 'https://github.com/rafa-acioly/animal_case',
     download_url = ''
 )
